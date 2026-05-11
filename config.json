@@ -1,0 +1,7 @@
+{
+    "name_server": "JOHANNDESKTOP",
+    "database": "MashicDb",
+    "username": "UsuarioPythonCRUD",
+    "password": "UDLA",
+    "driver": "{ODBC Driver 17 for SQL Server}"
+}
